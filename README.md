@@ -100,7 +100,7 @@ If you’d like to improve or add resources, please open a pull request or submi
 
 🌐 Website: https://www.icertglobal.com/
 
-📧 Email: support@icertglobal.com
+📧 Email: info@icertglobal.com
 
 💼 LinkedIn: https://www.linkedin.com/company/icertglobal
 
