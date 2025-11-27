@@ -7,7 +7,7 @@ Learn. Upgrade. Get Certified.
 
 iCert Global is a global professional training organization offering industry-recognized certification programs across:
 
-Project Management
+# Project Management
 
 Agile & Scrum
 
