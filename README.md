@@ -1,9 +1,9 @@
 # icert-global-certification
 iCert Global – Official training resources for PMP, Agile, ITIL, Cybersecurity, Cloud, Data Science &amp; professional certification programs.
 ![iCert Global – Professional Certification Training](https://dummyimage.com/1200x300/0d6efd/ffffff&text=iCert+Global+%7C+Professional+Certification+Training)
-📘 iCert Global – Professional Certification Training
+# 📘 iCert Global – Professional Certification Training
 Learn. Upgrade. Get Certified.
-🌍 About iCert Global
+# 🌍 About iCert Global
 
 iCert Global is a global professional training organization offering industry-recognized certification programs across:
 
@@ -27,7 +27,7 @@ We help working professionals advance their careers through instructor-led onlin
 
 🌐 Official Website: https://www.icertglobal.com/
 
-🎓 Top Certification Programs
+# 🎓 Top Certification Programs
 Project Management
 
 PMP® Certification Training
@@ -60,7 +60,7 @@ AWS & Azure Certification Programs
 
 Data Science & Machine Learning
 
-📁 Repository Contents
+# 📁 Repository Contents
 
 This repository includes helpful learning resources for students and professionals:
 
@@ -78,11 +78,11 @@ This repository includes helpful learning resources for students and professiona
 
 Additional resources will be added over time.
 
-🎯 Our Mission
+# 🎯 Our Mission
 
 To make high-quality professional training accessible and affordable to learners worldwide, bridging the global skills gap and enabling career growth for everyone.
 
-🤝 Contributing
+# 🤝 Contributing
 
 We welcome contributions from:
 
